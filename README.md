@@ -22,7 +22,7 @@ Thu afternoon
 * 13:30-13:45 catch-up/debugging
 * 13:45-15:00 Pymatgen core use – going over useful functionality
 * 15:00-15:15 coffee
-* 15:15-16:30 Pymatgen adventures - case studies in materials science
+* 15:15-16:30 Pymatgen adventures - case studies, use of MP API
 
 Fri morning
 * 09:30-09:45 catch-up/debugging
