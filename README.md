@@ -3,6 +3,8 @@ Assets for the Materials Project workshop on August 10-11, 2017 in Berkeley, CA.
 
 # Agenda
 
+Breakfast arrives on Thursday and Friday mornings at 09:00.
+
 Wed morning -- Python/Jupyter primer (optional)
 * 09:30-10:15 Basics of the Jupyter Notebook, running Python, basic data types
 * 10:15-10:45 Control flow
