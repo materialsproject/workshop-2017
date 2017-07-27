@@ -1,5 +1,5 @@
 # MP Workshop 2017
-Assets for the Materials Project workshop on August 10-11, 2017 in Berkeley, CA.
+Assets for the Materials Project workshop on August 10-11, 2017 (and Python/Jupyter primer August 9) in Berkeley, CA.
 
 # Agenda
 
