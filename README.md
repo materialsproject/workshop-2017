@@ -17,27 +17,27 @@ Thu morning
 * 09:30-09:45 Intro
 * 09:45-11:00 Web site - walk through apps and material detail pages
 * 11:00-11:15 coffee break
-* 11:15-12:30 API use - intro MPRester methods, query() syntax, mapidoc repo
+* 11:15-12:30 Pymatgen core use – going over useful functionality
 * 12:30-13:30 lunch
 
 Thu afternoon
 * 13:30-13:45 catch-up/debugging
-* 13:45-15:00 Pymatgen core use – going over useful functionality
+* 13:45-15:00 API basics - MPRester methods, query() syntax, mapidoc repo
 * 15:00-15:15 coffee
 * 15:15-16:30 Pymatgen adventures - case studies, use of MP API
 
 Fri morning
 * 09:30-09:45 catch-up/debugging
-* 09:45-11:00 Automatic workflows (Atomate) – a standard libary
+* 09:45-11:00 Atomate basics – a standard libary for workflows
 * 11:00-11:15 coffee break
-* 11:15-12:30 Atomate deep dive - Fireworks and Custodian
+* 11:15-12:30 Atomate case studies
 * 12:30-13:30 lunch
 
 Fri afternoon
 * 13:30-13:45 catch-up/debugging
-* 13:45-15:00 Data management (MongoDB) – Advanced API queries, "Builders"
+* 13:45-15:00 Contributing data to MP
 * 15:00-15:15 coffee
-* 15:15-16:30 Contributing data to MP – introducing MPContribs
+* 15:15-16:30 Integrative case studies based on participant feedback
 
 ## Contributing
 
