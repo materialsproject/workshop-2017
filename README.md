@@ -24,12 +24,12 @@ At the workshop, you can expect to gain competency in:
 Breakfast arrives on Thursday and Friday mornings at 09:00.
 
 Wed morning -- Python/Jupyter primer (optional)
-* 09:30-10:15 Basics of the Jupyter Notebook, running Python, basic data types
-* 10:15-10:45 Control flow
-* 10:45-11:05 Libraries
-* 11:05-11:20 (break)
-* 11:20-11:55 Writing Functions
-* 11:55-12:30 Dictionaries
+* 09:30-10:00 Jupyter basics; Python variables and arithmetic
+* 10:00-10:15 Built-in functions and libraries; getting help
+* 10:15-10:55 Control flow: conditionals, for loops
+* 10:55-11:10 (break)
+* 11:10-11:50 Data structures: lists and dictionaries
+* 11:50-12:30 Data collection; writing functions
 
 Thu morning
 * 09:30-09:45 Intro
