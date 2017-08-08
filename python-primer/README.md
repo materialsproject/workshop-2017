@@ -1,14 +1,12 @@
-python-novice-inflammation
-==========================
+python-primer
+================
 
-An introduction to Python for non-programmers using inflammation data.
-Please see <https://swcarpentry.github.io/python-novice-inflammation/> for a rendered version of this material.
+An introduction to programming in Python using the Jupyter notebook environment.
 
-Current Maintainers (not affiliated with the Materials Project):
+We draw from several sources, principally from Software Carpentry lessons.
 
-* [Trevor Bekolay][bekolay_trevor]
-* [Valentina Staneva][staneva_valentina]
-
-[lesson-example]: https://swcarpentry.github.io/lesson-example
-[bekolay_trevor]: http://software-carpentry.org/team/#bekolay_trevor
-[staneva_valentina]: http://software-carpentry.org/team/#staneva_valentina
+* https://swcarpentry.github.io/python-novice-inflammation/
+* https://swcarpentry.github.io/python-novice-gapminder/
+* https://swcarpentry.github.io/python-second-language/
+* https://dwinston.github.io/pymongo-novice-materials/
+* https://intermediate-and-advanced-software-carpentry.readthedocs.io/en/latest/idiomatic-python.html
