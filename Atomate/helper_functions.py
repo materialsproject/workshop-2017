@@ -2,7 +2,7 @@ import os
 from atomate.vasp.powerups import use_fake_vasp
 
 
-def electronic_structure_simulator(wf, ref_dir="~/workshop_ref_files/electronic_structure"):
+def electronic_structure_simulator(wf, ref_dir="/wkshp_shared/workshop_ref_files/electronic_structure"):
     reference_dir = os.path.expanduser(ref_dir)
     ref_dirs_si = {
         "structure optimization": os.path.join(reference_dir, "Si_structure_optimization"),
@@ -14,7 +14,7 @@ def electronic_structure_simulator(wf, ref_dir="~/workshop_ref_files/electronic_
     return use_fake_vasp(wf, ref_dirs_si)
 
 
-def elastic_simulator(wf, ref_dir="~/workshop_ref_files/elastic_tensor"):
+def elastic_simulator(wf, ref_dir="/wkshp_shared/workshop_ref_files/elastic_tensor"):
     reference_dir = os.path.expanduser(ref_dir)
 
     si_ref_dirs = {
