@@ -46,9 +46,9 @@ Thu afternoon
 
 Fri morning
 * 09:30-09:45 catch-up/debugging
-* 09:45-11:00 Atomate basics – a standard libary for workflows
+* 09:45-11:00 Software tools for calculating materials properties in high-throughput
 * 11:00-11:15 coffee break
-* 11:15-12:30 Atomate case studies
+* 11:15-12:30 Workflow walk through
 * 12:30-13:30 lunch
 
 Fri afternoon
