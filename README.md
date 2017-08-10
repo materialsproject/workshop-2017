@@ -19,6 +19,9 @@ At the workshop, you can expect to gain competency in:
 
 * Contributing data to MP in a way that associates it with our library of compounds so that users can include data from external sources into their analysis.
 
+# Exercises
+Some additional exercise notebooks can be found at: https://jupyterhub.materialsproject.org/
+
 # Agenda
 
 Breakfast arrives on Thursday and Friday mornings at 09:00.
