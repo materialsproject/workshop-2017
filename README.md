@@ -32,30 +32,30 @@ Wed morning -- Python/Jupyter primer (optional)
 * 11:50-12:30 Data collection: [comprehensions](python-primer/episodes/Comprehensions.ipynb), [writing functions](python-primer/episodes/Writing%20Functions.ipynb)
 
 Thu morning
-* 09:30-09:45 Intro
-* 09:45-11:00 Web site - walk through apps and material detail pages
+* 09:30-09:45 [Intro](Intro_Persson.pdf)
+* 09:45-11:00 [Web site - walk through apps and material detail pages](website/website_walkthrough.ipynb)
 * 11:00-11:15 coffee break
-* 11:15-12:30 Pymatgen core use – going over useful functionality
+* 11:15-12:30 [Pymatgen core use](pymatgen/core/pymatgen_core.ipynb) – going over useful functionality
 * 12:30-13:30 lunch
 
 Thu afternoon
 * 13:30-13:45 catch-up/debugging
-* 13:45-15:00 API basics - MPRester methods, query() syntax, mapidoc repo
+* 13:45-15:00 [API basics](API_use/api_use_2017.ipynb) - MPRester methods, query() syntax, mapidoc repo
 * 15:00-15:15 coffee
-* 15:15-16:30 Pymatgen adventures - case studies, use of MP API
+* 15:15-16:30 Pymatgen adventures - [several](pymatgen/Thermochemistry.ipynb) [case](pymatgen/Electronic%20Structure.ipynb) [studies](pymatgen/Epitaxial%20Analysis.ipynb), including use of MP API
 
 Fri morning
 * 09:30-09:45 catch-up/debugging
-* 09:45-11:00 Software tools for calculating materials properties in high-throughput
+* 09:45-11:00 [Software tools for calculating materials properties in high-throughput](Atomate/Intro_Session_Lecture.pdf)
 * 11:00-11:15 coffee break
-* 11:15-12:30 Workflow walk through
+* 11:15-12:30 [Workflow](Atomate/Overview.ipynb) [walk](Atomate/ElectronicStructure.ipynb) [through](Atomate/ElasticTensor.ipynb)
 * 12:30-13:30 lunch
 
 Fri afternoon
 * 13:30-13:45 catch-up/debugging
-* 13:45-15:00 Contributing data to MP
+* 13:45-15:00 [Contributing data to MP](mpcontribs/mpcontribs.ipynb)
 * 15:00-15:15 coffee
-* 15:15-16:30 Integrative case studies based on participant feedback
+* 15:15-16:30 Integrative case studies based on participant feedback, including a MongoDB primer ([intro](mongo-primer/mongo-primer.pdf), [walkthrough](mongo-primer/mongo-primer.ipynb))
 
 ## Contributing
 
