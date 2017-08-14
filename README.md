@@ -24,12 +24,12 @@ At the workshop, you can expect to gain competency in:
 Breakfast arrives on Thursday and Friday mornings at 09:00.
 
 Wed morning -- Python/Jupyter primer (optional)
-* 09:30-10:00 Jupyter basics; Python variables and arithmetic
-* 10:00-10:15 Built-in functions and libraries; getting help
-* 10:15-10:55 Control flow: conditionals, for loops
+* 09:30-10:00 [Jupyter basics](python-primer/episodes/Introduction%20and%20Jupyter%20Use.ipynb); [Python variables and arithmetic](python-primer/episodes/Variables%20and%20built-in%20functions.ipynb)
+* 10:00-10:15 [Built-in functions and libraries; getting help](python-primer/episodes/Variables%20and%20built-in%20functions.ipynb)
+* 10:15-10:55 Control flow: [conditionals](python-primer/episodes/Conditionals.ipynb), [for loops](python-primer/episodes/For%20loops.ipynb)
 * 10:55-11:10 (break)
-* 11:10-11:50 Data structures: lists and dictionaries
-* 11:50-12:30 Data collection; writing functions
+* 11:10-11:50 Data structures: [lists](python-primer/episodes/Lists.ipynb) and [dictionaries](python-primer/episodes/Dictionaries.ipynb)
+* 11:50-12:30 Data collection: [comprehensions](python-primer/episodes/Comprehensions.ipynb), [writing functions](python-primer/episodes/Writing%20Functions.ipynb)
 
 Thu morning
 * 09:30-09:45 Intro
